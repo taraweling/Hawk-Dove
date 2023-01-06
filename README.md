@@ -1,5 +1,5 @@
 # Hawk-Dove
-The Hawk-Dove game is a model of conflict in game theory applied to evolutionary biology. 
+The Hawk-Dove game is a game theory based model of conflict applied to evolutionary biology. 
 It simulates an ecosystem of passive and aggressive birds, with the addition of environmental restraints.
 The code is set to model the behavior, reproduction and death of hawks and doves, represented by objects, as they evolve over time. I used the tkinter module to plot speciation that occurs due to defensive strategy, modeled by 'encounters,' as a proxy for animal territoriality.
 
